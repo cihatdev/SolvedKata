@@ -1,5 +1,4 @@
 {
-  "name": "Kata",
   "version": "1.0.0",
   "description": "",
   "main": "kata1.js",
@@ -8,7 +7,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "nodemon": "^2.0.4"
   }
