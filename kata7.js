@@ -21,13 +21,20 @@
 // }
 
 
+// function findNextSquare(sq) {
+//   var number = Math.sqrt(sq);
+//   if (Math.round(number) === number) {
+//     return Math.pow(++number, 2)
+//   }
+//   return -1;
+// }
+
+
 function findNextSquare(sq) {
-  var number = Math.sqrt(sq);
-  if(Math.round(number) === number) {
-    return Math.pow(++number, 2)
-  }
-  return -1;
+  var root = Math.sqrt(sq);
+  return root % 1 === 0 ? Math.pow(root + 1, 2) : -1;
 }
+
 
 let out = findNextSquare(729);
 console.log(out);
