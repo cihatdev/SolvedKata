@@ -41,13 +41,22 @@
 
 
 
-function digPow(n, p) {
-  var x = String(n).split("").reduce((s, d, i) => s + Math.pow(d, p + i), 0)
-  return x % n ? -1 : x / n
+// function digPow(n, p) {
+//   var x = String(n).split("").reduce((s, d, i) => s + Math.pow(d, p + i), 0)
+//   return x % n ? -1 : x / n
+// }
+
+
+
+
+// let out = digPow(89, 1)
+// console.log(out);
+
+const obj = [1, 2, 3, 4, 5, 6];
+
+for (const i in obj) {
+  if (obj.hasOwnProperty(obj[i])) {
+    const element = obj[i];
+    console.table(obj[i]);
+  }
 }
-
-
-
-
-let out = digPow(89, 1)
-console.log(out);
