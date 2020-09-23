@@ -12,7 +12,7 @@ function peakHeight(mountains) {
     if (hillCount(mountains) === 0) return true;
     mountains = mountains.map((row, rowIndex) =>
       row.map((_, colIndex) =>
-        starPattern.reduce((acc, [x, y]) => acc && (mountains[rowIndex + y] || [])[colIndex + x] == "^", true)
+        starPattern.reduce((acc, [x, y]) => (acc && (mountains[rowIndex + y] || [])[colIndex + x]) == "^", true)
           ? "^"
           : " "
       )
