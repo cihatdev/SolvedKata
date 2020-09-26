@@ -1,3 +1,5 @@
+<h1><img  src="https://www.codewars.com/users/Cihat%20%20Salik/badges/large"></h1>
+
 <h1 align="center">Codewars Katas</h1>
 
 <h6 align="center">
@@ -227,12 +229,6 @@ Also I recommend you Quokka Pro that has [Live Comments](https://medium.com/@art
 - [CoderByte](https://coderbyte.com)
 - [CodeFights](https://codefights.com)
 - [HackerRank](https://www.hackerrank.com)
-
-### Contributors
-
-Feel free to open issues or send PRs
-
-[![](https://sourcerer.io/fame/lndgalante/lndgalante/codewars-katas/images/0)](https://sourcerer.io/fame/lndgalante/lndgalante/codewars-katas/links/0)[![](https://sourcerer.io/fame/lndgalante/lndgalante/codewars-katas/images/1)](https://sourcerer.io/fame/lndgalante/lndgalante/codewars-katas/links/1)[![](https://sourcerer.io/fame/lndgalante/lndgalante/codewars-katas/images/2)](https://sourcerer.io/fame/lndgalante/lndgalante/codewars-katas/links/2)[![](https://sourcerer.io/fame/lndgalante/lndgalante/codewars-katas/images/3)](https://sourcerer.io/fame/lndgalante/lndgalante/codewars-katas/links/3)[![](https://sourcerer.io/fame/lndgalante/lndgalante/codewars-katas/images/4)](https://sourcerer.io/fame/lndgalante/lndgalante/codewars-katas/links/4)[![](https://sourcerer.io/fame/lndgalante/lndgalante/codewars-katas/images/5)](https://sourcerer.io/fame/lndgalante/lndgalante/codewars-katas/links/5)[![](https://sourcerer.io/fame/lndgalante/lndgalante/codewars-katas/images/6)](https://sourcerer.io/fame/lndgalante/lndgalante/codewars-katas/links/6)[![](https://sourcerer.io/fame/lndgalante/lndgalante/codewars-katas/images/7)](https://sourcerer.io/fame/lndgalante/lndgalante/codewars-katas/links/7)
 
 ### License
 
