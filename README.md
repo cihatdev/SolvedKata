@@ -1,4 +1,4 @@
-<h1><img  src="https://www.codewars.com/users/Cihat%20%20Salik/badges/large"></h1>
+<h1><img align='center'  src="https://www.codewars.com/users/Cihat%20%20Salik/badges/large"></h1>
 
 <h1 align="center">Codewars Katas</h1>
 
