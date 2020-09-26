@@ -1,6 +1,6 @@
 <h1 align="center">Codewars Katas</h1>
 
-<img align='center'  src="https://www.codewars.com/users/Cihat%20%20Salik/badges/large">
+<img align='center' src="https://www.codewars.com/users/Cihat%20%20Salik/badges/large">
 
 <h6 align="center">
   Solutions for Codewars katas
