@@ -1,6 +1,8 @@
 <h1 align="center">Codewars Katas</h1>
 
-<img align='center' src="https://www.codewars.com/users/Cihat%20%20Salik/badges/large">
+<h1>This readme file is excerpted from <a href="https://github.com/lndgalante/codewars-katas">this repo</a>.Links belong to that repository.</h1>
+
+<img align='center'  src="https://www.codewars.com/users/Cihat%20%20Salik/badges/large">
 
 <h6 align="center">
   Solutions for Codewars katas
