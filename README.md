@@ -222,7 +222,6 @@ Also I recommend you Quokka Pro that has [Live Comments](https://medium.com/@art
 - [A JavaScript optimization handbook](https://mythbusters.js.org)
 
 ### Similar Plattforms
-
 - [Codility](https://codility.com)
 - [Exercism](http://exercism.io)
 - [CodeEval](https://www.codeeval.com)
