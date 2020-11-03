@@ -66,6 +66,20 @@
 // }
 
 
+function twoSum(numbers, target) {
+  var tmp, hash = {};
+  numbers.forEach(function (a, i) {
+    hash[a] = i;
+    console.log(hash);
+  })
+  for (var i = 0; i < numbers.length; i++) {
+    tmp = target - numbers[i];
+    if (typeof hash[tmp] !== 'undefined') return [i, hash[tmp]]
+  }
+}
+
+console.log('twoSum([1, 2, 3], 4)', twoSum([2, 2, 3], 4))
+
 function missingValues(arr) {
   const set = arr.reduce((acc, cur) => {
     acc[cur] = (acc[cur] || 0) + 1;
