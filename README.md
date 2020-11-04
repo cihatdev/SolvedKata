@@ -2,7 +2,7 @@
 
 <h3>This readme file is excerpted from <a href="https://github.com/lndgalante/codewars-katas">this repo</a>.Links belong to that repository.</h3>
 <div style="display:flex; aling-items:center; justify-content:center">
-<img align-content='center'  src="https://www.codewars.com/users/Cihat%20%20Salik/badges/small">
+<img align="center" align-content='center'  src="https://www.codewars.com/users/Cihat%20%20Salik/badges/small">
 </div>
 <h6 align="center">
   Solutions for Codewars katas
