@@ -1,9 +1,9 @@
 <h1 align="center">Codewars Katas</h1>
 
-<h1>This readme file is excerpted from <a href="https://github.com/lndgalante/codewars-katas">this repo</a>.Links belong to that repository.</h1>
-
-<img align='center'  src="https://www.codewars.com/users/Cihat%20%20Salik/badges/large">
-
+<h3>This readme file is excerpted from <a href="https://github.com/lndgalante/codewars-katas">this repo</a>.Links belong to that repository.</h3>
+<div style="display:flex; aling-items:center; justify-content:center">
+<img align-content='center'  src="https://www.codewars.com/users/Cihat%20%20Salik/badges/large">
+</div>
 <h6 align="center">
   Solutions for Codewars katas
 </h6>
@@ -222,6 +222,7 @@ Also I recommend you Quokka Pro that has [Live Comments](https://medium.com/@art
 - [A JavaScript optimization handbook](https://mythbusters.js.org)
 
 ### Similar Plattforms
+
 - [Codility](https://codility.com)
 - [Exercism](http://exercism.io)
 - [CodeEval](https://www.codeeval.com)
