@@ -19,8 +19,8 @@
   <a href="https://david-dm.org/lndgalante/codewars-katas/dev-status.svg">
     <img src="https://david-dm.org/lndgalante/codewars-katas/dev-status.svg?style=flat-square">
   </a>
-  <a href"https://www.codewars.com/users/Cihat%20%20Salik">
-    <img align="center" align-content='center'  src="https://www.codewars.com/users/Cihat%20%20Salik/badges/small">
+  <a href"https://www.codewars.com/users/cihatdev">
+    <img align="center" align-content='center'  src="https://www.codewars.com/users/cihatdev/badges/large">
   </a>
 </p>
 
