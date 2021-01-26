@@ -1,6 +1,5 @@
 <h1 align="center">Codewars Katas</h1>
 
-<h3>This readme file is excerpted from <a href="https://github.com/lndgalante/codewars-katas">this repo</a>.Links belong to that repository.</h3>
 <div style="display:flex; aling-items:center; justify-content:center">
 <img align="center" align-content='center'  src="https://www.codewars.com/users/Cihat%20%20Salik/badges/small">
 </div>
@@ -30,17 +29,9 @@
 - [Vocabulary](#vocabulary)
 - [Node.js & ES6+ Support](#node.js-&-es6+-support)
 - [Purpose](#purpose)
-- [Repository Structure](#repository-structure)
-- [Global Index](#global-index)
-- [Create a new Kata](#create-a-new-kata)
-- [Test your might](#test-your-might)
-- [Performance tests](#performance-tests)
-- [Development Dependencies](#development-dependencies)
-- [Learning Resources](#learning-resources)
 - [Tips](#tips-&-tricks)
 - [More Learning Resources](#more-learning-resources)
 - [Similar Platforms](#similar-platforms)
-- [Contributors](#contributors)
 - [License](#license)
 
 ### Introduction
@@ -72,94 +63,6 @@ The current Node versions [available](https://github.com/Codewars/codewars.com/w
 
 Practicing katas could help you to improve your algorithmic thinking. It could also help at interviews being more confident and learning a few tricks of your preferred language.
 I highly recommend the [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) which will help you ace your next technical interview.
-
-### Repository Structure
-
-There's a folder for each kata nested in its own kyu
-
-```ascii
-├── 8-kyu/
-│   ├── Mr. Freeze/
-│   │   ├── index.js
-│   │   └── index.test.js
-│   └── ...
-│
-├── 7-kyu/
-│   ├── Binary Addition/
-│   │   ├── index.js
-│   │   └── index.test.js
-│   └── ...
-```
-
-### Global Index
-
-This index will help you find all katas ordered alphabetically with a link to the kata folder.
-
-- ✅ [8 Kyu - Index](https://github.com/lndgalante/codewars-katas/tree/master/lib/index/8-kyu.md)
-
-* 🚧 [7 Kyu - Index](https://github.com/lndgalante/codewars-katas/tree/master/lib/index/7-kyu.md)
-
-- ⏸️ [6 Kyu - Index](https://github.com/lndgalante/codewars-katas/tree/master/lib/index/6-kyu.md)
-
-* ⏸️ [5 Kyu - Index](https://github.com/lndgalante/codewars-katas/tree/master/lib/index/5-kyu.md)
-
-Notes:
-
-- ✅ All completed
-- 🚧 Work in progress
-- ⏸️ Paused until last WIP is completed
-
-To update the global index run
-
-```bash
-> npm run update-index
-```
-
-### Create a new Kata
-
-Since the kata generator uses some dependencies so you should install those first
-
-```bash
-> npm run install-generator-deps
-```
-
-To generate a new folder with an `index.js` and `index.test.js` run
-
-```bash
-> npm run create-kata [kata link]
-```
-
-In example
-
-```bash
-> npm run create-kata https://www.codewars.com/kata/drying-potatoes/train/javascript
-```
-
-Since this is a 7-kyu kata it will appear under this folder as a folder with its own title "Drying Potatoes".
-
-### Test your Might
-
-If you want to test in watch mode uncommitted files
-
-```bash
-> npm run test-watch
-```
-
-### Performance tests
-
-Check [Perflink](https://perf.link/) if you want to compare performance between long and short solutions.
-
-### Development Dependencies
-
-- Code Linting: [XO](https://github.com/sindresorhus/xo)
-- Code Formatting: [Prettier](https://github.com/prettier/prettier)
-- Utilities: [Lodash](https://github.com/lodash/lodash) & [Ramda](https://github.com/ramda/ramda)
-- Pre-commit hook: [Husky](https://github.com/typicode/husky)
-- Testing: [Jest](https://github.com/facebook/jest) & [Jest-extended](https://github.com/jest-community/jest-extended)
-- Types definitions for Jest: [Types/jest](https://www.npmjs.com/package/@types/jest)
-
-I also use [Quokka](https://quokkajs.com) Pro Edition for rapid prototyping.
-Also I recommend you Quokka Pro that has [Live Comments](https://medium.com/@artem.govorov/using-live-code-comments-to-quickly-measure-code-performance-with-wallaby-js-and-quokka-js-7931a896133).
 
 ### Tips & Tricks
 
@@ -231,6 +134,9 @@ Also I recommend you Quokka Pro that has [Live Comments](https://medium.com/@art
 - [CoderByte](https://coderbyte.com)
 - [CodeFights](https://codefights.com)
 - [HackerRank](https://www.hackerrank.com)
+
+<h1>This readme file is excerpted from <a href="https://github.com/lndgalante/codewars-katas">this repo</a>.Links belong to that repository.</h1>
+
 
 ### License
 
