@@ -1,7 +1,6 @@
 <h1 align="center">Codewars Katas</h1>
 
 <div style="display:flex; aling-items:center; justify-content:center">
-<img align="center" align-content='center'  src="https://www.codewars.com/users/Cihat%20%20Salik/badges/small">
 </div>
 <h6 align="center">
   Solutions for Codewars katas
@@ -19,6 +18,9 @@
   </a>
   <a href="https://david-dm.org/lndgalante/codewars-katas/dev-status.svg">
     <img src="https://david-dm.org/lndgalante/codewars-katas/dev-status.svg?style=flat-square">
+  </a>
+  <a href"/#">
+    <img align="center" align-content='center'  src="https://www.codewars.com/users/Cihat%20%20Salik/badges/small">
   </a>
 </p>
 
