@@ -8,7 +8,10 @@ function isIsogram(str){
     console.log(counts[char])
     return counts;
     }, {})
+  // console.log(object)
   console.log(object)
+  // console.log(Object.entries(object))
+
   return Object.entries(object).every(([key, value]) => value > 1 ? false : true)
 }
 
